@@ -12,7 +12,7 @@ with open(csvpath) as csvfile:
     csvreader = csv.reader(csvfile, delimiter=',')
 
     # skip header
-    next(csvreader)
+    csvheader = next(csvreader)
 
     # initialize variables
     months = 0
