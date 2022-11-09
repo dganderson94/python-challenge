@@ -1,6 +1,6 @@
 # python-challenge
 
-This two Python scripts demonstrate my ability to access CSV files and perform basis analyses on them using Python.
+These two Python scripts demonstrate my ability to access CSV files and perform basis analyses on them using Python.
 
 # PyBank
 
